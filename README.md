@@ -4,13 +4,14 @@
     const amadeuszP = {
     pronouns: "he" | "him",
     level: "junior" | "beginner",
-    skills: ["HTML", "CSS", "Javascript", "React", "Node", "Express", "Python", "SQL"],
-    goal: {
-        education: "I am doing a one year long Coding Traineeship",
-        employment: "In order to become a Junior Full-Stack Engineer"
+    skills: ["HTML", "CSS", "JavaScript", "React", "Node", "Express", "Python", "SQL"],
+    currentGoals: {
+        education: "Currently undertaking a Coding Traineeship",
+        employment: "Studying in order to get my first job in tech"
+        
                },
     };
     return amadeuszP;    
 ```
 
-# };
+## };
